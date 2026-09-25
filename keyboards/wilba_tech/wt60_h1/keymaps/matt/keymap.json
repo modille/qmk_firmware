@@ -1,0 +1,8 @@
+{
+    "config": {
+        "features": {
+            "mousekey": true,
+            "via": true
+        }
+    }
+}
